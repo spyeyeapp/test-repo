@@ -4,6 +4,6 @@ contact_links:
     url: https://github.com/spyeyeapp/spyeye-android/discussions
     about: Share and discuss ideas with the community — feature requests are voted on here, not in Issues.
   - name: Security or privacy issue
-    url: mailto:security@spyeyeapp.example
+    url: mailto:security@spyeye.app
     about: Please don't file sensitive issues publicly — email us instead.
     
