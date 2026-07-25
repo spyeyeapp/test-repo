@@ -48,7 +48,7 @@ body:
         2.
         3.
   - type: textarea
-    id: context
+    id: additional
     attributes:
       label: Additional context
       description: Screenshots or logs help. Please don't attach actual recorded footage — describe what it shows instead.
