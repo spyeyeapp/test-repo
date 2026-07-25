@@ -8,13 +8,9 @@ body:
     attributes:
       label: Before you submit
       options:
-        - label: I searched open issues and didn't find this
+        - label: I searched open issues and didn't find this already reported
           required: true
-        - label: I searched closed issues and didn't find this
-          required: true
-        - label: I'm on Android 12 or later
-          required: true
-        - label: I'm on the latest SpyEye release
+        - label: I searched closed issues too
           required: true
   - type: input
     id: version
