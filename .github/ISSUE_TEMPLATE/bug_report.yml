@@ -1,0 +1,58 @@
+name: Bug report
+description: Report a problem with SpyEye
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before you submit
+      options:
+        - label: I searched open issues and didn't find this
+          required: true
+        - label: I searched closed issues and didn't find this
+          required: true
+        - label: I'm on Android 12 or later
+          required: true
+        - label: I'm on the latest SpyEye release
+          required: true
+  - type: input
+    id: version
+    attributes:
+      label: SpyEye version
+      placeholder: e.g. 0.4.2
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Device model
+      placeholder: e.g. Pixel 8, Galaxy S23
+    validations:
+      required: true
+  - type: input
+    id: android-version
+    attributes:
+      label: Android version
+      placeholder: e.g. Android 14
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened, and what did you expect instead?
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1.
+        2.
+        3.
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Screenshots or logs help. Please don't attach actual recorded footage — describe what it shows instead.
