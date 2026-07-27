@@ -1,53 +1,33 @@
 # SpyEye
 
-![Release](https://img.shields.io/github/v/release/spyeyeapp/spyeye-android?include_prereleases&label=release)
-![Platform](https://img.shields.io/badge/Android-12%2B-3DDC84)
-![License](https://img.shields.io/badge/license-proprietary-lightgrey)
+**Discreet video evidence, without the confrontation.**
 
-**Video evidence for moments you can't risk making obvious.**
+![Android 12+](https://img.shields.io/badge/Android-12%2B-3DDC84?logo=android&logoColor=white) ![Status](https://img.shields.io/badge/status-active%20beta-orange)
 
-SpyEye helps you record video evidence without tipping off the people around you. Built for investigative journalists, solo travelers, gig workers, and anyone who needs to document a threat without escalating it.
+SpyEye is an Android app for quietly recording video evidence when a situation feels unsafe. It's built for investigative journalists, solo travelers, gig workers, and anyone else who may need proof of what happened — without drawing attention to the fact that they're recording.
 
-> This repository hosts releases and issue tracking — SpyEye is closed-source, so no app source code is published here. See [License](#license).
+## About this repo
 
-## Status
+SpyEye is closed-source, so this repo isn't the app's code — it's here for releases and community input:
 
-SpyEye is in active beta — expect bugs and breaking changes between releases.
-
-## Requirements
-
-- Android 12 or later
-- Not on Google Play — install directly from [Releases](../../releases) or the SpyEye website
-
-*Recording laws vary by state and country, and some require every party's consent. Know the rules where you're using SpyEye.*
-
-## Features
-
-<!-- TODO: replace with the real list -->
-- [What makes capture discreet — no viewfinder, no visible recording indicator, etc.]
-- [Runs in the background through the interaction]
-- [Quick to launch — recording within seconds]
-- [Where recordings are stored, and who can access them]
+- Found a bug? [Open an issue](https://github.com/spyeyeapp/spyeye-android/issues)
+- Have a feature idea? [Start a discussion](https://github.com/spyeyeapp/spyeye-android/discussions)
+- We don't take pull requests here — there's no source to merge them into.
 
 ## Download
 
-1. Grab the latest APK from [Releases](../../releases).
-2. Allow your browser or file manager to install unknown apps when Android prompts you.
-3. Install, then grant SpyEye camera and microphone access.
+- **Requires:** Android 12 or later
+- **Get it:** [Latest release](https://github.com/spyeyeapp/spyeye-android/releases/latest) or **[your website URL]**
+- **Not on Google Play**, and we don't distribute anywhere else. If you find SpyEye somewhere other than this repo or our website, don't trust it.
 
-Android will likely flag it as unrecognized since it's outside Google Play — that's expected for sideloaded apps.
+SpyEye is in active beta (`0.x.x`). Expect rough edges and breaking changes between releases.
 
-<!-- TODO: if you publish a SHA-256 checksum per release, add a line here telling people how to verify it -->
+## Legal & Privacy
 
-## Issues & Feature Requests
+**Recording laws vary** by country and, in the US, by state — some require consent from everyone present before you can record audio. Know the laws where you are. SpyEye is meant for lawful personal-safety and documentation use, not for surveilling or recording someone without a legitimate basis.
 
-SpyEye is closed-source, so this repo doesn't take code contributions — but bug reports and feature ideas are welcome.
-
-- Found a bug? [Open an issue](../../issues)
-- Have an idea? [Start a discussion](../../discussions)
+**Your recordings:** Still being finalized during beta. We'll lock this down — and document it clearly here — before SpyEye leaves beta. If you're using it for something high-stakes in the meantime, reach out first so we know exactly where things stand.
 
 ## License
 
-SpyEye is closed-source, proprietary software. This repository exists to distribute releases and track issues and feature requests — no application source code is included here, and none of it is licensed for reuse or redistribution.
-
-© 2026 [your name or entity]. All rights reserved.
+This repository's contents are proprietary — © 2026 **[your entity]**. All rights reserved. Full Terms of Use and Privacy Policy: **[your website URL]**.
