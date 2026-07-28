@@ -13,8 +13,7 @@
 SpyEye is closed-source, so this repo isn't the app's code — it's here for releases and community input:
 
 - Found a bug? [Open an issue](https://github.com/spyeyeapp/spyeye-android/issues)
-- Have a feature idea? [Start a discussion](https://github.com/spyeyeapp/spyeye-android/discussions)
-- We don't take pull requests here — there's no source to merge them into.
+- Have an idea, or want to upvote someone else's? [Join the discussion](https://github.com/spyeyeapp/spyeye-android/discussions)
 
 ## Download
 
