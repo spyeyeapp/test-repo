@@ -15,7 +15,7 @@ SpyEye is closed-source, so this repo isn't the app's code — it's here for rel
 - Found a bug? [Open an issue](https://github.com/spyeyeapp/spyeye-android/issues)
 - Have an idea, or want to upvote someone else's? [Join the discussion](https://github.com/spyeyeapp/spyeye-android/discussions)
 
-## Download
+## Install SpyEye
 
 - **Requires:** Android 12 or later
 - **Get it:** [Latest release](https://github.com/spyeyeapp/spyeye-android/releases/latest) or [spyeye.app](https://spyeye.app)
