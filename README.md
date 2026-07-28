@@ -2,6 +2,8 @@
 
 # SpyEye
 
+Unnoticed. Undeniable.
+
 ![Android 12+](https://img.shields.io/badge/Android-12%2B-3DDC84?logo=android&logoColor=white) ![Status](https://img.shields.io/badge/status-active%20beta-orange)
 
 </div>
@@ -13,9 +15,9 @@
 SpyEye is closed-source, so this repo isn't the app's code — it's here for releases and community input:
 
 - Found a bug? [Open an issue](https://github.com/spyeyeapp/spyeye-android/issues)
-- Have an idea, or want to upvote someone else's? [Join the discussion](https://github.com/spyeyeapp/spyeye-android/discussions)
+- Have an idea? [Start a discussion](https://github.com/spyeyeapp/spyeye-android/discussions)
 
-## Install SpyEye
+## Download
 
 - **Requires:** Android 12 or later
 - **Get it:** [Latest release](https://github.com/spyeyeapp/spyeye-android/releases/latest) or [spyeye.app](https://spyeye.app)
@@ -31,4 +33,4 @@ SpyEye is in active beta (`0.x.x`). Expect rough edges and breaking changes betw
 
 ## License
 
-This repository's contents are proprietary — © 2026 Shashi Das. All rights reserved. Full [Terms of Use](https://spyeye.app/terms) and [Privacy Policy](https://spyeye.app/privacy).
+SpyEye is proprietary software — © 2026 Shashi Das. All rights reserved. It's provided as-is, with no warranty of any kind. Full Terms of Use and Privacy Policy are linked above.
