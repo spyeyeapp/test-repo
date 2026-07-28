@@ -19,17 +19,17 @@ SpyEye is closed-source, so this repo isn't the app's code — it's here for rel
 ## Download
 
 - **Requires:** Android 12 or later
-- **Get it:** [Latest release](https://github.com/spyeyeapp/spyeye-android/releases/latest) or **[your website URL]**
+- **Get it:** [Latest release](https://github.com/spyeyeapp/spyeye-android/releases/latest) or [spyeye.app](https://spyeye.app)
 - **Not on Google Play**, and we don't distribute anywhere else. If you find SpyEye somewhere other than this repo or our website, don't trust it.
 
 SpyEye is in active beta (`0.x.x`). Expect rough edges and breaking changes between releases.
 
 ## Legal & Privacy
 
-**You're responsible for the law wherever you use SpyEye.** It usually comes down to audio (consent rules apply) or video alone (privacy-expectation rules apply) — know which applies where you are. SpyEye is for documenting your own situation, not for monitoring anyone without their knowledge; doing so breaches its Terms of Use. Full terms: **[your website URL]**.
+**You're responsible for the law wherever you use SpyEye.** It usually comes down to audio (consent rules apply) or video alone (privacy-expectation rules apply) — know which applies where you are. SpyEye is for documenting your own situation, not for monitoring anyone without their knowledge; doing so breaches its Terms of Use. Full terms: [spyeye.app/terms](https://spyeye.app/terms).
 
-**Your recordings:** Stay on your device — SpyEye doesn't sync or upload them to the cloud. Full privacy policy: **[your privacy policy URL]**.
+**Your recordings:** Stay on your device — SpyEye doesn't sync or upload them to the cloud. Full privacy policy: [spyeye.app/privacy](https://spyeye.app/privacy).
 
 ## License
 
-This repository's contents are proprietary — © 2026 **[your entity]**. All rights reserved. Full Terms of Use and Privacy Policy: **[your website URL]**.
+This repository's contents are proprietary — © 2026 Shashi Das. All rights reserved. Full [Terms of Use](https://spyeye.app/terms) and [Privacy Policy](https://spyeye.app/privacy).
