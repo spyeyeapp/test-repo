@@ -6,7 +6,7 @@
 
 </div>
 
-**SpyEye quietly records video evidence when a situation feels unsafe.** It's built for anyone who needs proof of what happened without drawing attention to the fact that they're recording — solo travelers, gig workers, or just someone who doesn't feel safe.
+**SpyEye quietly records video evidence when you're facing a threat or confrontation.** It's built for anyone who needs proof of what happened without drawing attention to the fact that they're recording — solo travelers, gig workers, or anyone who'd rather have a situation on record.
 
 ## About this repo
 
