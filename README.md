@@ -1,6 +1,10 @@
+<div align="center">
+
 # SpyEye
 
 ![Android 12+](https://img.shields.io/badge/Android-12%2B-3DDC84?logo=android&logoColor=white) ![Status](https://img.shields.io/badge/status-active%20beta-orange)
+
+</div>
 
 **SpyEye quietly records video evidence when a situation feels unsafe.** It's built for anyone who needs proof of what happened without drawing attention to the fact that they're recording — solo travelers, gig workers, or just someone who doesn't feel safe.
 
