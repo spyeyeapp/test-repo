@@ -4,7 +4,7 @@
 
 **Discreet. Undeniable.**
 
-![Latest release](https://img.shields.io/github/v/release/spyeyeapp/spyeye-android?include_prereleases&sort=semver&label=release) ![Downloads](https://img.shields.io/github/downloads/spyeyeapp/spyeye-android/total)
+![Latest release](https://img.shields.io/github/v/release/spyeyeapp/test-repo?include_prereleases&sort=semver&label=release) ![Downloads](https://img.shields.io/github/downloads/spyeyeapp/test-repo/total)
 
 </div>
 
