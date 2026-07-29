@@ -23,11 +23,13 @@
 
 SpyEye is in active beta (`0.x.x`). Expect rough edges and breaking changes between releases.
 
-## What you should know
+## A note on recording laws
 
 **Recording laws are yours to know, wherever you use SpyEye.** They usually come down to whether you're capturing audio (consent from everyone applies) or video alone (privacy-expectation rules apply instead) — know which applies where you are. (Not legal advice.) SpyEye is built for documenting your own situation, not for monitoring anyone without their knowledge; misuse breaches its Terms of Use. Full terms: [spyeye.app/terms](https://spyeye.app/terms).
 
-**Your recordings:** Stay on your device — SpyEye doesn't sync or upload them to the cloud. Full privacy policy: [spyeye.app/privacy](https://spyeye.app/privacy).
+## Privacy
+
+Recordings stay on your device — SpyEye doesn't sync or upload them to the cloud. Full privacy policy: [spyeye.app/privacy](https://spyeye.app/privacy).
 
 ## License
 
