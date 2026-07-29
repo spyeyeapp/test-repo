@@ -2,13 +2,13 @@
 
 # SpyEye
 
-Unnoticed. Undeniable.
+**Discreet. Undeniable.**
 
-![Android 12+](https://img.shields.io/badge/Android-12%2B-3DDC84?logo=android&logoColor=white) ![Status](https://img.shields.io/badge/status-active%20beta-orange)
+![Latest release](https://img.shields.io/github/v/release/spyeyeapp/spyeye-android?include_prereleases&sort=semver&label=release) ![Downloads](https://img.shields.io/github/downloads/spyeyeapp/spyeye-android/total)
 
 </div>
 
-**SpyEye quietly records video evidence when you're facing a threat or confrontation.** It's built for anyone who needs proof of what happened without drawing attention to the fact that they're recording — solo travelers, gig workers, or anyone who'd rather have a situation on record.
+**SpyEye helps you quietly record video evidence for moments like a threat or confrontation.** It's built for anyone who needs proof of what happened without drawing attention to the fact that they're recording — solo travelers, gig workers, or anyone who'd rather have a situation on record.
 
 ## About this repo
 
