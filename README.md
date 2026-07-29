@@ -23,9 +23,9 @@ SpyEye is closed-source, so this repo isn't the app's code — it's here for rel
 
 SpyEye is in active beta (`0.x.x`). Expect rough edges and breaking changes between releases.
 
-## Legal & Privacy
+## What you should know
 
-**You're responsible for the law wherever you use SpyEye.** It usually comes down to audio (consent rules apply) or video alone (privacy-expectation rules apply) — know which applies where you are. SpyEye is for documenting your own situation, not for monitoring anyone without their knowledge; doing so breaches its Terms of Use. Full terms: [spyeye.app/terms](https://spyeye.app/terms).
+**Recording laws are yours to know, wherever you use SpyEye.** They usually come down to whether you're capturing audio (consent from everyone applies) or video alone (privacy-expectation rules apply instead) — know which applies where you are. (Not legal advice.) SpyEye is built for documenting your own situation, not for monitoring anyone without their knowledge; misuse breaches its Terms of Use. Full terms: [spyeye.app/terms](https://spyeye.app/terms).
 
 **Your recordings:** Stay on your device — SpyEye doesn't sync or upload them to the cloud. Full privacy policy: [spyeye.app/privacy](https://spyeye.app/privacy).
 
