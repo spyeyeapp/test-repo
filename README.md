@@ -1,6 +1,10 @@
+<div align="center">
+
 # SpyEye
 
 **Unnoticed. Undeniable.**
+
+</div>
 
 **SpyEye helps you quietly record video evidence, for moments like facing a threat or confrontation.** It's built for anyone who needs proof of what happened without drawing attention to the fact that they're recording — solo travelers, gig workers, or anyone who'd rather have a situation on record.
 
