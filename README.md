@@ -2,13 +2,11 @@
 
 # SpyEye
 
-**Discreet. Undeniable.**
-
-![Latest release](https://img.shields.io/github/v/release/spyeyeapp/test-repo?include_prereleases&sort=semver&label=release) ![Downloads](https://img.shields.io/github/downloads/spyeyeapp/test-repo/total)
+**Unnoticed. Undeniable.**
 
 </div>
 
-**SpyEye helps you quietly record video evidence for moments like a threat or confrontation.** It's built for anyone who needs proof of what happened without drawing attention to the fact that they're recording — solo travelers, gig workers, or anyone who'd rather have a situation on record.
+**SpyEye quietly records video evidence when you're facing a threat or confrontation.** It's built for anyone who needs proof of what happened without drawing attention to the fact that they're recording — solo travelers, gig workers, or anyone who'd rather have a situation on record.
 
 ## About this repo
 
