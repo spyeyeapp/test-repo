@@ -10,13 +10,13 @@
 
 </div>
 
-> **This repo isn't the source.** SpyEye is closed-source — this space is for releases, issues, and discussions, not code contributions.
+> **This repo isn't the source code.** SpyEye is closed-source — this space is for releases, issues, and discussions, not code contributions.
 
 **SpyEye helps you quietly record video evidence, for moments like facing a threat or confrontation.** It's built for anyone who needs proof of what happened without drawing attention to the fact that they're recording — solo travelers, gig workers, or anyone who'd rather have a situation on record.
 
-## Get it
+## Get the app
 
-Not on Google Play — download directly:
+Not on Google Play, and we don't distribute anywhere else — if you find SpyEye somewhere other than this repo or the website, don't trust it.
 
 - **[Latest release](https://github.com/spyeyeapp/spyeye-android/releases/latest)** (GitHub)
 - Or from [SpyEye website](https://spyeye.app)
