@@ -23,9 +23,10 @@ Not on Google Play, and we don't distribute anywhere else — if you find SpyEye
 
 Each release includes a SHA-256 checksum — verify the APK against it before installing.
 
-## Bug reports & Discussions
+## Bugs and ideas
 
-Found a bug? [Open an issue](https://github.com/spyeyeapp/spyeye-android/issues). Have a question or something else on your mind? [Start a discussion](https://github.com/spyeyeapp/spyeye-android/discussions).
+- Found a bug? [Open an issue](https://github.com/spyeyeapp/spyeye-android/issues)
+- Have an idea? [Start a discussion](https://github.com/spyeyeapp/spyeye-android/discussions)
 
 ## A note on recording laws
 
