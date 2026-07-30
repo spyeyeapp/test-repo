@@ -21,10 +21,8 @@ Not on Google Play, and we don't distribute anywhere else — if you find SpyEye
 - **[Latest release](https://github.com/spyeyeapp/spyeye-android/releases/latest)** (GitHub)
 - Or from [SpyEye website](https://spyeye.app)
 
-Each release includes a SHA-256 checksum — verify the APK against it before installing.
-
 > [!TIP]
-> Recordings stay on your device — SpyEye never syncs or uploads them. Details: [Privacy Policy](https://spyeye.app/privacy).
+>Each release includes a SHA-256 checksum — verify the APK against it before installing.
 
 ## Bugs and ideas
 
