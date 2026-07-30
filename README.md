@@ -23,6 +23,9 @@ Not on Google Play, and we don't distribute anywhere else — if you find SpyEye
 
 Each release includes a SHA-256 checksum — verify the APK against it before installing.
 
+> [!TIP]
+> Recordings stay on your device — SpyEye never syncs or uploads them. Details: [Privacy Policy](https://spyeye.app/privacy).
+
 ## Bugs and ideas
 
 - Found a bug? [Open an issue](https://github.com/spyeyeapp/spyeye-android/issues)
@@ -31,10 +34,6 @@ Each release includes a SHA-256 checksum — verify the APK against it before in
 ## A note on recording laws
 
 **Recording laws are yours to know, wherever you use SpyEye.** They usually come down to whether you're capturing audio (consent rules apply) or video alone (privacy-expectation rules apply instead) — know which applies where you are. (Not legal advice.) SpyEye is built to help you document your own situation — not to monitor someone else's life; misuse breaches its Terms of Use. Full terms: [spyeye.app/terms](https://spyeye.app/terms).
-
-## Privacy
-
-Recordings stay on your device — SpyEye doesn't sync or upload them to the cloud. Full privacy policy: [spyeye.app/privacy](https://spyeye.app/privacy).
 
 ## License
 
