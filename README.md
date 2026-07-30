@@ -19,7 +19,7 @@
 Not on Google Play — download directly:
 
 - **[Latest release](https://github.com/spyeyeapp/spyeye-android/releases/latest)** (GitHub)
-- Or from [SpyEye website](#)
+- Or from [SpyEye website](https://spyeye.app)
 
 Each release includes a SHA-256 checksum — verify the APK against it before installing.
 
