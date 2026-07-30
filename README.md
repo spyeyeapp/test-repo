@@ -14,13 +14,14 @@
 
 **SpyEye helps you quietly record video evidence, for moments like facing a threat or confrontation.** It's built for anyone who needs proof of what happened without drawing attention to the fact that they're recording — solo travelers, gig workers, or anyone who'd rather have a situation on record.
 
-## Download
+## Get it
 
-- **Requires:** Android 12 or later
-- **Get it:** [Latest release](https://github.com/spyeyeapp/spyeye-android/releases/latest) or [spyeye.app](https://spyeye.app)
-- **Not on Google Play**, and we don't distribute anywhere else. If you find SpyEye somewhere other than this repo or our website, don't trust it.
+Not on Google Play — download directly:
 
-SpyEye is in active beta (`0.x.x`). Expect rough edges and breaking changes between releases.
+- **[Latest release](https://github.com/spyeyeapp/spyeye-android/releases/latest)** (GitHub)
+- Or from [SpyEye website](#)
+
+Requires **Android 12+**.
 
 ## A note on recording laws
 
