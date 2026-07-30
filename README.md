@@ -4,6 +4,10 @@
 
 **Unnoticed. Undeniable.**
 
+![Android 12+](https://img.shields.io/badge/Android-12%2B-3DDC84?logo=android&logoColor=white)
+![Beta](https://img.shields.io/badge/status-beta-orange)
+![Closed Source](https://img.shields.io/badge/source-closed-lightgrey)
+
 </div>
 
 > **This repo isn't the source.** SpyEye is closed-source — this space is for releases, issues, and discussion, not code contributions.
