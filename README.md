@@ -5,8 +5,8 @@
 **Unnoticed. Undeniable.**
 
 ![Android 12+](https://img.shields.io/badge/Android-12%2B-3DDC84?logo=android&logoColor=white)
-![Beta](https://img.shields.io/badge/status-beta-orange)
-![Closed Source](https://img.shields.io/badge/source-closed-lightgrey)
+[![Beta](https://img.shields.io/badge/status-beta-orange)](https://github.com/spyeyeapp/spyeye-android/releases)
+[![Closed Source](https://img.shields.io/badge/source-closed-lightgrey)](#license)
 
 </div>
 
