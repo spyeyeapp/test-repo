@@ -38,4 +38,4 @@ Recordings stay on your device — SpyEye doesn't sync or upload them to the clo
 
 ## License
 
-SpyEye is proprietary software — © 2026 Shashi Das. All rights reserved. It's provided as-is, with no warranty of any kind. Full Terms of Use and Privacy Policy are linked above.
+SpyEye is proprietary software — © 2026 Shashi Das. All rights reserved. It's provided as-is, with no warranty of any kind, under the [Terms of Use](https://spyeye.app/terms).
