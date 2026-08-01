@@ -19,13 +19,17 @@
 
 ## Get the app
 
-Not on Google Play, and we don't distribute anywhere else — if you find SpyEye somewhere other than this repo or the website, don't trust it.
+> [!WARNING]
+> Not on Google Play. SpyEye is only distributed from this repo and the website below — anywhere else, don't trust it.
 
 - **[Latest release](https://github.com/spyeyeapp/spyeye-android/releases/latest)** (GitHub)
 - Or from [SpyEye website](https://spyeye.app)
 
 > [!TIP]
-> Each release includes a SHA-256 checksum — verify the APK against it before installing.
+> Each release includes a SHA-256 checksum — verify the APK against it before installing. [How to check a checksum](#).
+
+> [!IMPORTANT]
+> SpyEye is early beta. Test it in a calm moment so you know how it behaves — don't find out for the first time during an actual confrontation.
 
 ## Bugs and ideas
 
