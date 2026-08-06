@@ -21,11 +21,10 @@
 
 Not on Google Play, and SpyEye isn't distributed anywhere else — if you find it somewhere other than this repo or the website, don't trust it.
 
-- **Requires:** Android 12 or later
 - **[Latest release](https://github.com/spyeyeapp/spyeye-android/releases/latest)** (GitHub)
 - Or from [SpyEye website](https://spyeye.app)
 
-> [!IMPORTANT]
+> [!TIP]
 > Each release includes a SHA-256 checksum — verify the APK against it before installing.
 
 ## Bugs and ideas
