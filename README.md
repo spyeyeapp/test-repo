@@ -38,4 +38,4 @@ Not on Google Play, and SpyEye isn't distributed anywhere else — if you find i
 
 ## License
 
-SpyEye is proprietary software — © 2026 Shashi Das. All rights reserved. It's provided as-is, with no warranty of any kind, under the [Terms of Use](https://spyeye.app/terms).
+SpyEye is proprietary software — © 2026 SpyEye. All rights reserved. It's provided as-is, with no warranty of any kind, under the [Terms of Use](https://spyeye.app/terms).
